@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'asteraregular';
-    src: url('font/astera-webfont.eot');
-    src: url('font/astera-webfont.eot?#iefix') format('embedded-opentype'),
-         url('font/astera-webfont.woff') format('woff'),
-         url('font/astera-webfont.ttf') format('truetype'),
-         url('font/astera-webfont.svg#asteraregular') format('svg');
+    src: url('../fonts/astera-webfont.eot');
+    src: url('../fonts/astera-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/astera-webfont.woff') format('woff'),
+         url('../fonts/astera-webfont.ttf') format('truetype'),
+         url('../fonts/astera-webfont.svg#asteraregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
