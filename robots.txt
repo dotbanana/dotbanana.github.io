@@ -16,3 +16,5 @@ Disallow:
 Disallow: /assets/
 Disallow: /legal.html
 Disallow: /links.html
+Disallow: /CNAME
+Disallow: /README.md
