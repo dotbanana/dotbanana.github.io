@@ -91,7 +91,7 @@
 					</thead>
 					<tbody>
 						<tr data-toggle="collapse" data-target="#rule1" class="accordion-toggle" href="#rule1">
-							<td><b>lowdef-Regel</b></td>            
+							<td><b>lowdef-Regel</b></td>         
 						</tr>
 						<tr>
 							<td colspan="3" class="hiddenRow">
@@ -181,5 +181,8 @@
     $(this).ekkoLightbox();
 	});
 	</script>
+	<script>$('.divClassName').on('click touchstart', function () {
+     $($(this).data('target')).collapse('toggle');
+});</script>
   </body>
 </html>
