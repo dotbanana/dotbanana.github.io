@@ -16,5 +16,6 @@ Disallow:
 Disallow: /assets/
 Disallow: /legal.html
 Disallow: /swruleset.html
+Disallow: /swproxytutorial.html
 Disallow: /CNAME
 Disallow: /README.md
